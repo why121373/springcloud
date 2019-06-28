@@ -12,9 +12,7 @@ import lombok.experimental.Accessors;
 public class Item {
 	private Integer id;
 	private String name;
-<<<<<<< HEAD
-=======
-	@11
->>>>>>> branch 'master' of https://github.com/why121373/springcloud.git
 	private Integer number;
+	
+	//11111111111111
 }
